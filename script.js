@@ -6,7 +6,7 @@ const projects = [
     {
         title: "Calculator",
         description: "Type two numbers and add, divide, mltiply or subtact them",
-        imagePath: "", // NOTE: This image file must be in an 'images' folder!
+        imagePath: "calculator.png", // NOTE: This image file must be in an 'images' folder!
         link: "calculator.html"
     },
  
@@ -81,4 +81,5 @@ projects.forEach(project => {
 });
 
  
+
 
