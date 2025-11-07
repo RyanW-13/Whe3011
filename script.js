@@ -6,8 +6,8 @@ const projects = [
     {
         title: "Calculator",
         description: "Type two numbers and add, divide, mltiply or subtact them",
-        imagePath: "images/space_invaders_screenshot.png", // NOTE: This image file must be in an 'images' folder!
-        link: "https://arcade.makecode.com/#####-my-game-link"
+        imagePath: "", // NOTE: This image file must be in an 'images' folder!
+        link: "calculator.html"
     },
  
     // ----------------------------------------------------
@@ -81,3 +81,4 @@ projects.forEach(project => {
 });
 
  
+
